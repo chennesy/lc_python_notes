@@ -1,0 +1,6 @@
+.DS_Store
+._.DS_Store
+._chicago_circ_by_location.csv
+.ipynb_checkpoints/
+cleaned.pkl
+original_downloads/

@@ -1,15 +1,16 @@
 # Overview of proposed changes to LC Python lessons
 
-1. Update the current [Intro to Python lesson](https://librarycarpentry.org/lc-python-intro/) to move to JupyterLab and use a more relevant LIS related dataset (~ 4 to 6 hours).
-2. Create a new Using Web APIs with Python lesson (~ 2.5 hours)
-3. Create a new Web Scraping with Python lesson (~ 2.5 hours)
+1. Update the current [Intro to Python lesson](https://librarycarpentry.org/lc-python-intro/) to move to JupyterLab and use a more relevant LIS related dataset (~ 4 to 7 hours). - dev during Fall 2023
+2. Create a new Using Web APIs with Python lesson (~ 2.5 hours) - dev Spring 2024
+3. Create a new Web Scraping with Python lesson (~ 2.5 hours) - dev Summer/Fall 2024
 
 ### Introduction to Python
-Possible datasets: 
 
-- Chicago public library circulation data, adapted from [data.gov open datasets](https://catalog.data.gov/dataset/?q=chicago+%22circulation+by+location%22).
-- [LC OpenRefine data](https://librarycarpentry.org/lc-open-refine/#downloading-the-data)
-- [LC Unix shell data](https://librarycarpentry.org/lc-shell/#data-files)
+- Dataset: Chicago public library circulation data, adapted from [data.gov open datasets](https://catalog.data.gov/dataset/?q=chicago+%22circulation+by+location%22). Cleaned circulation data from three or four years, each in their own CSV.
+- Narrative: The folks managing your ILS send you annual reports with very general circulation numbers for each year, broken down by location and media type. You want to create a Python workflow to run 
+
+- ~~[LC OpenRefine data](https://librarycarpentry.org/lc-open-refine/#downloading-the-data)~~
+- ~~[LC Unix shell data](https://librarycarpentry.org/lc-shell/#data-files)~~
 
 ##### Episode 1: Getting Started
 Introduce JupyterLab environment + discuss examples of how library workers use Python in their work.
@@ -39,7 +40,6 @@ Cut or adapt current episode (glob)
 Adapt functions episode 
 
 ##### Episode 10: Reflect, Wrap up
-
 
 ### Using Web APIs with Python
 Dataset: 

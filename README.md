@@ -7,7 +7,7 @@
 ### Introduction to Python
 
 - Dataset: Chicago public library circulation data, adapted from [data.gov open datasets](https://catalog.data.gov/dataset/?q=chicago+%22circulation+by+location%22). Cleaned circulation data from three or four years, each in their own CSV.
-- Narrative: The folks managing your ILS send you annual reports with very general circulation numbers for each year, broken down by location and media type. You want to create a Python workflow to run 
+- Narrative: The folks managing your ILS send you yearly CSV files with library circulation numbers for each year, broken down by location and media type. You want to create a Python workflow to run basic analysis on the data each year, so you can share circulation summaries as part of the Library annual reports.
 
 - ~~[LC OpenRefine data](https://librarycarpentry.org/lc-open-refine/#downloading-the-data)~~
 - ~~[LC Unix shell data](https://librarycarpentry.org/lc-shell/#data-files)~~

@@ -34,7 +34,7 @@ Create new df from CSV and explore Pandas functions. Use [SWC df episode](http:/
 Adapt current episode
 
 ##### Episode 8: Looping over datasets
-Cut or adapt current episode (glob)
+Cut or adapt [current episode (glob)](https://swcarpentry.github.io/python-novice-gapminder/14-looping-data-sets.html)
 
 ##### Episode 9: Functions 
 Adapt functions episode 
